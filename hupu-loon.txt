@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,netease.com,REJECT
 DOMAIN-SUFFIX,bytescm.com,REJECT
 DOMAIN-SUFFIX,sdkoptedge.chinanetcenter.com,REJECT
 DOMAIN-SUFFIX,douyin.com,REJECT
-DOMAIN-SUFFIX,zijieapi.com,REJECT
+DOMAIN-SUFFIX,zijieapi.com,REJECT #可能导致抖音顶部异常，非必触发
 DOMAIN-SUFFIX,content-autofill.googleapis.com,REJECT
 DOMAIN-SUFFIX,api-fp-retry-bj.fengkongcloud.com,REJECT
 DOMAIN-SUFFIX,e-goblin.hupu.com,REJECT
