@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,stream.snssdk.com,REJECT
 DOMAIN-SUFFIX,netease.com,REJECT
 DOMAIN-SUFFIX,bytescm.com,REJECT
 DOMAIN-SUFFIX,sdkoptedge.chinanetcenter.com,REJECT
-DOMAIN-SUFFIX,douyin.com,REJECT
+#DOMAIN-SUFFIX,douyin.com,REJECT #可能导致抖音聊天内发送的视频无法加载
 DOMAIN-SUFFIX,zijieapi.com,REJECT #可能导致抖音顶部异常，非必触发
 DOMAIN-SUFFIX,content-autofill.googleapis.com,REJECT
 DOMAIN-SUFFIX,api-fp-retry-bj.fengkongcloud.com,REJECT
